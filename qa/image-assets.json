@@ -1,0 +1,100 @@
+[
+  {
+    "source": "f1010c7d4dcbf2024ec02e1abfa90cd8_940x626_fit.png",
+    "output": "hero/kaers-black-seed-red-onion.webp",
+    "width": 939,
+    "height": 626,
+    "bytes": 128596
+  },
+  {
+    "source": "69a306df-1167-4b78-915f-0c0ea3b24f59.jfif",
+    "output": "products/kaers-black-seed-red-onion-shampoo.webp",
+    "width": 900,
+    "height": 900,
+    "bytes": 45248
+  },
+  {
+    "source": "65eecac1532eab7c22b4bf45c195f9c3_940x626_fit.png",
+    "output": "products/kaers-black-seed-soap.webp",
+    "width": 939,
+    "height": 626,
+    "bytes": 157672
+  },
+  {
+    "source": "f488735ff261cfdec7814547dc8ffe0e_360x360_fill.jpg",
+    "output": "products/kristaveda-mineral-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 31506
+  },
+  {
+    "source": "21797e5a89172aa3dec3e01a408a3b97_360x360_fill.jpg",
+    "output": "products/kristaveda-aloe-vera-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 27196
+  },
+  {
+    "source": "4e153be03c6aad97a8dfa1edd5dd2577_940x626_fit.jpg",
+    "output": "brands/kristaveda-black-seed-deodorant.webp",
+    "width": 939,
+    "height": 626,
+    "bytes": 117560
+  },
+  {
+    "source": "b35b04f6c7ff10fae9f2dc13cc0e541a_fit.png",
+    "output": "ingredients/botanical-landscape.webp",
+    "width": 1920,
+    "height": 600,
+    "bytes": 144020
+  },
+  {
+    "source": "39e32579-5466-4794-9d7f-dc7cf38218d4.jfif",
+    "output": "products/kaers-black-seed-shampoo.webp",
+    "width": 900,
+    "height": 900,
+    "bytes": 46968
+  },
+  {
+    "source": "66cd6b70-513f-452b-830c-69f79a57f52f.jfif",
+    "output": "products/kaers-black-seed-ashwagandha-shampoo.webp",
+    "width": 900,
+    "height": 900,
+    "bytes": 44382
+  },
+  {
+    "source": "b88dfa9c-db0d-428f-b827-68b03dd89999.jfif",
+    "output": "products/kaers-black-seed-charcoal-shampoo.webp",
+    "width": 900,
+    "height": 900,
+    "bytes": 47736
+  },
+  {
+    "source": "1bdd361d6569155a2fb73e62649c3a35_360x360_fill.jpg",
+    "output": "products/kristaveda-turmeric-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 33084
+  },
+  {
+    "source": "1ab2f7445ecb3c5a45f37b4398fd3004_360x360_fill.jpg",
+    "output": "products/kristaveda-chamomile-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 36140
+  },
+  {
+    "source": "41b77dc180b68f1b949446e1a4922c7d_360x360_fill.jpg",
+    "output": "products/kristaveda-mangosteen-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 22540
+  },
+  {
+    "source": "778f6943d76550fa7e8416dec0cae7dd_360x360_fill.jpg",
+    "output": "products/kristaveda-black-seed-deodorant.webp",
+    "width": 360,
+    "height": 360,
+    "bytes": 33640
+  }
+]

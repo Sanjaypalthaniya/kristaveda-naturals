@@ -1,0 +1,27 @@
+export type ImageAsset = { src: string; alt: string; placeholder: boolean; fit?: 'cover' | 'contain'; position?: string };
+// Owner-supplied photographs. Original uploads remain untouched in public/images.
+export const images: Record<string, ImageAsset> = {
+ hero: { src: '/images/brands/kristaveda-black-seed-deodorant.webp', alt: 'Минеральный дезодорант KRISTAVEDA с чёрным тмином, цветами нигеллы и кристаллами', placeholder: false, position: '50% center' },
+ shampoo: { src: '/images/products/kaers-black-seed-red-onion-shampoo.webp', alt: 'Флакон шампуня KAERS Black Seed & Red Onion с дозатором', placeholder: false, fit: 'contain' },
+ soap: { src: '/images/products/kaers-black-seed-soap.webp', alt: 'Упаковка мыла KAERS с чёрным тмином', placeholder: false, fit: 'contain' },
+ deodorant: { src: '/images/products/kristaveda-mineral-deodorant.webp', alt: 'Натуральный минеральный дезодорант KristaVeda', placeholder: false, fit: 'contain' },
+ aloeDeodorant: { src: '/images/products/kristaveda-aloe-vera-deodorant.webp', alt: 'Минеральный дезодорант KristaVeda с экстрактом алоэ вера', placeholder: false, fit: 'contain' },
+ ingredient: { src: '/images/ingredients/botanical-landscape.webp', alt: 'Зелёные листья, цветы и каменная поверхность в ботанической композиции', placeholder: false, position: '30% center' },
+ campaign: { src: '/images/hero/kaers-black-seed-red-onion.webp', alt: 'Шампунь KAERS с чёрным тмином, красным луком и растительными ингредиентами', placeholder: false, position: '51% center' },
+ hair: { src: '/images/hero/kaers-black-seed-red-onion.webp', alt: 'Шампунь KAERS с чёрным тмином и красным луком', placeholder: false },
+ body: { src: '/images/products/kaers-black-seed-soap.webp', alt: 'Мыло KAERS с чёрным тмином для ухода за телом', placeholder: false },
+ mineral: { src: '/images/products/kristaveda-aloe-vera-deodorant.webp', alt: 'Минеральный дезодорант KristaVeda с алоэ вера на фоне кристаллов', placeholder: false },
+ originalShampoo: {src:'/images/products/kaers-black-seed-shampoo.webp',alt:'Шампунь KAERS Black Seed со светлой этикеткой, 400 мл',placeholder:false,fit:'contain'},
+ ashwagandhaShampoo: {src:'/images/products/kaers-black-seed-ashwagandha-shampoo.webp',alt:'Шампунь KAERS Black Seed & Ashwagandha с зелёной этикеткой, 400 мл',placeholder:false,fit:'contain'},
+ charcoalShampoo: {src:'/images/products/kaers-black-seed-charcoal-shampoo.webp',alt:'Шампунь KAERS Black Seed & Activated Charcoal с чёрной этикеткой, 400 мл',placeholder:false,fit:'contain'},
+ turmericDeodorant: {src:'/images/products/kristaveda-turmeric-deodorant.webp',alt:'Минеральный дезодорант KRISTAVEDA с экстрактом куркумы',placeholder:false,fit:'contain'},
+ chamomileDeodorant: {src:'/images/products/kristaveda-chamomile-deodorant.webp',alt:'Минеральный дезодорант KRISTAVEDA с экстрактом ромашки',placeholder:false,fit:'contain'},
+ mangosteenDeodorant: {src:'/images/products/kristaveda-mangosteen-deodorant.webp',alt:'Минеральный дезодорант KRISTAVEDA с экстрактом мангостина',placeholder:false,fit:'contain'},
+ blackSeedDeodorant: {src:'/images/products/kristaveda-black-seed-deodorant.webp',alt:'Минеральный дезодорант KRISTAVEDA с экстрактом чёрного тмина',placeholder:false,fit:'contain'},
+ beauty: { src: '/images/categories/beauty.svg', alt: 'Ботаническая иллюстрация — место для фотографии косметики iLashVeda', placeholder: true },
+ henna: { src: '/images/categories/henna.svg', alt: 'Ботаническая иллюстрация — место для фотографии хны Golecha', placeholder: true },
+ kristaveda: { src: '/images/brands/kristaveda-black-seed-deodorant.webp', alt: 'Минеральный дезодорант KristaVeda с экстрактом чёрного тмина', placeholder: false },
+ kaers: { src: '/images/hero/kaers-black-seed-red-onion.webp', alt: 'Коллекция ухода KAERS: шампунь с чёрным тмином и красным луком', placeholder: false },
+ ilashveda: { src: '/images/brands/ilashveda.svg', alt: 'Ботаническая иллюстрация — место для фотографии iLashVeda', placeholder: true },
+ golecha: { src: '/images/brands/golecha.svg', alt: 'Ботаническая иллюстрация — место для фотографии Golecha', placeholder: true },
+};
